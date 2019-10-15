@@ -1,1 +1,94 @@
-<mxfile host="www.draw.io" modified="2019-09-26T09:15:12.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36" etag="CUEZHoUsWJIW8l1pGGJZ" version="11.3.1" type="github" pages="1"><diagram id="Y6tTRYtsbHOTUgFSEDFm" name="第 1 页">7VrbbuM2EP0aAu1DA1OkJPJRdJRN0G0RIN1eHgWba2srm4ZCx06/vkOKii2JWe8CtcwgfTGoEXXxmcPDM2MjMl3tP9TFZvmLmssKRZP5HpFrFEWcJvBpAs9NIKa4CSzqct6EjgIP5T/SBScuui3n8rEzUStV6XLTDc7Uei1nuhMr6lrtutM+q6r71E2xkIPAw6yohtE/yrleNlEWJYf4rSwXy/bJOOHNmVXRTnbf5HFZzNXuKERyRKa1UroZrfZTWRnsWlya625eOfvyYrVc62+54NPPdx+2H2/vfn2YRk+bze52ef/lJ3eXp6Laui/sXlY/twjUarueS3OTCSJityy1fNgUM3N2BymH2FKvKjjCMPys1tolETM4dreXtZb7V98bv6ABLJJqJXX9DFPcBbHDzxGIxO4Ou0M60pYty6NUEBcrHAMWL3c+gAQDh9N3YEYGmBWhg9Zy8BRm/FyYRUOe5TFiHLFrO7hBYoJyigRDPLORDGV4ACsAorvYPepa/S2nqlI1RNZqLQ2gZVX1QkVVLtZwOAMAJcSFgbeEdZ65E6tyPjeP8Sarm84z5IskPZYPE8Y9+YrOlS86yNd9lj2gHPI0RYyhPEXZBHHqksexGQiOBDlKZzOZv6MsTtKeVqWDNEY4GjGP8ZvTd8yG1CfUw30cnwu0NHzQaBQcaolH4geC3kSyI9F/N+KA07ibMn5hjR8Ks5yD93WHqtZLtVDrosoP0R5Khzkfldq4dH2RWj877IqtVt1kyn2p/zSXX8Xu6K+jM9d7d2d78PzVZJiX/Xoq4LupbT2Tp72cLuqF1KfmDVNby6rQ5VP3Pf7zRLVOrbO0EsRju8smxkNl+XteWjENbGm1e3zIW0h/3/VYznHrKuwpRoHLGbU7CBhOgbIblEPNMEEssgNg+vUP9+Zxt8CAm3tgf3Tz2+8/vh/q9y0nJvEgjeNaTjysj0PnPp1cuqeAhwXXXbfgAr2fIpFZvWdIwEIgdiHgE1sBzGTk/1oMcnzpWgx7ijFImYAcpTZTtqAObalEvUojSa+GCpP6Ntf4TDi2etK3Q7BDxEcDbuoNWDChAUrS4AAdig/KQWNASxJHTDCUZpAbdQkN0Dg8hno6CAAfqDSzgHLQ5NxYGkGQEHYgTDA0ZHGPqi+IHQHL4jGBZR5gwQemtgPJEM9dQ7nXigwN2ISdxpWOiSv34EqNZWiaN4AuZ28A1wFhU35ZwhJf6U7tcidWY6n1a6n5NO0xIPLEikTw2hAl8UmocTSm6hKfL+DWDjTczcy4LRvbQhK/Raw9ejEy1j7LQI1B4KLFmh7tecyU7iBpDfdFGhzEyWnhwJNREfb104eVnqWycWfU+DUoEUMDlvZ/ivbtdaMC6zNnoMQAqXA/VAjbZsoiy1hboTERHLBxHF2dloVxdzufjXgpyGwvgttSlzGrCokxbDw8GzHgrM9GjMlZ6muNpkZiM9Z2hFIXEQ2LiVGF0ID1cPbSDo162pVm8RNbooF9gDG3G1hq5YAbyyDCgzbp72CX1ln6ikXIbBfTNr1cv4bbCDOcFdfhA3s+MYDDw/8B7bmjP1WS/F8=</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-15T12:57:48.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="gkWB_9lUrE93IsOsu95W" version="12.1.1" type="github" pages="1">
+  <diagram id="Y6tTRYtsbHOTUgFSEDFm" name="第 1 页">
+    <mxGraphModel dx="932" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="351" width="710" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="710" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-2" value="前台业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="360" y="30" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-4" value="PAAS（研发平台）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="307" y="357" width="212" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="340" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="420" y="180" width="340" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-6" value="业务中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="175" y="190" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="UKIGuLHINSC2vppwHhPj-3" target="UKIGuLHINSC2vppwHhPj-3" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-10" value="数据中台" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="545" y="190" width="90" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="710" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-11" value="多端适配(PC/H5/PAD/TV)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="307" y="135" width="212" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="50" y="401" width="710" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-14" value="IAAS（机房、数据中心）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="307" y="407" width="212" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-15" value="海尔" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="220" y="67.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-22" value="日日顺" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="370" y="67.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-24" value="车小微" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="520" y="67.5" width="70" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-27" value="商城系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="170" y="225" width="85" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-28" value="金融平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="68" y="225" width="84" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-29" value="会员平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="170" y="279" width="85" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-30" value="仓贮管理系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="265" y="279" width="120" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-32" value="门店配送系统" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="265" y="225" width="120" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-34" value="供应商评价" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="60" y="279" width="100" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-36" value="数据协作" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="225" width="80" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-37" value="趋势预测" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="552.5" y="225" width="85" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-39" value="日志分析" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="450" y="279" width="80" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-41" value="用户画像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="552.5" y="279" width="85" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-43" value="风险规避" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="660" y="225" width="80" height="25" as="geometry"/>
+        </mxCell>
+        <mxCell id="UKIGuLHINSC2vppwHhPj-44" value="人工智能" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="660" y="279" width="80" height="25" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
